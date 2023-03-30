@@ -74,5 +74,5 @@ This method could overwrite your shortcuts, recommended if you have not tweaked 
 
 ## How it looks
 
-![Image](Image1.pnsg)
+![Image](Image1.png)
 ![Image2](Image2.png)
